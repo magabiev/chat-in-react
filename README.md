@@ -7,3 +7,4 @@
 - Redux
 - Redux-Thunk
 
+[Demo](https://magabiev.github.io/chat/)
