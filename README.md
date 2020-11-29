@@ -1,3 +1,4 @@
+[DEMO](https://magabiev.github.io/chat/)
 ### Мобильный чат на React Redux
 
 ## Основной функционал:
